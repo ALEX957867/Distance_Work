@@ -1,0 +1,3 @@
+C:/Users/ALEX957867/Desktop/Distance_Work/build/CMakeFiles/Distance_Work.dir
+C:/Users/ALEX957867/Desktop/Distance_Work/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ALEX957867/Desktop/Distance_Work/build/CMakeFiles/ZERO_CHECK.dir

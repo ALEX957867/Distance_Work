@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/Distance_Work/src/CMakeLists.txt
+  Distance_Work.cpp
+C:\Users\ALEX957867\Desktop\Distance_Work\src\Distance_Work.cpp(112,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\Distance_Work\src\Distance_Work.cpp(104,16): warning C4101: j: неиспользованная локальная переменная
+C:\Users\ALEX957867\Desktop\Distance_Work\src\Distance_Work.cpp(117): message : выполняется компиляция ссылки на экземпляр шаблон функции "void add<int>(Matrix<int> &,Matrix<int> &)"
+C:\Users\ALEX957867\Desktop\Distance_Work\src\Distance_Work.cpp(75,16): warning C4101: i: неиспользованная локальная переменная
+C:\Users\ALEX957867\Desktop\Distance_Work\src\Distance_Work.cpp(118): message : выполняется компиляция ссылки на экземпляр шаблон функции "void mult<int>(Matrix<int> &,Matrix<int> &)"
+  Distance_Work.vcxproj -> C:\Users\ALEX957867\Desktop\Distance_Work\build\Release\Distance_Work.exe
